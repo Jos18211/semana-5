@@ -1,0 +1,39 @@
+.menuzgua {
+  float: left;
+  background-color: #5B5B34;
+}
+
+
+.menuzgua li {
+  list-style: none;
+  color: #E5E5DB;
+
+}
+
+.menuzgua .principal{
+  float: left;
+  color: white;
+  border-right: 1px solid #FFF;
+  text-decoration: none;
+  text-align: center;
+  padding: 10px 25px 10px 25px;
+}
+.menuzgua a{
+  color: #FFF;
+}
+
+
+
+.menuzgua  a:hover {
+  color: white;
+  font-size: larger;
+  font-weight: bold;
+  background: #FF7500;
+}
+
+.navto {
+  border-color: #C4E9E8;
+  background-color: #E5E5DB;
+}
+
+
